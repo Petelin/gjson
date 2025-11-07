@@ -1,3 +1,6 @@
+gjson with globale vairable is terriable wrong. if dependencies of DisableModifiers confighguration, you will be boomed.
+so this package rm DisableModifiers
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/.github/images/logo-dark.png">
