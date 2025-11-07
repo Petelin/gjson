@@ -1,4 +1,4 @@
-module code.byted.org/webcast//gjson
+module code.byted.org/webcast/gjson
 
 go 1.12
 
