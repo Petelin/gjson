@@ -1,4 +1,4 @@
-module github.com/Petelin/gjson
+module code.byted.org/webcast//gjson
 
 go 1.12
 
